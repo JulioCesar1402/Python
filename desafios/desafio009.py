@@ -1,0 +1,13 @@
+t = int(input("Escolha um número para encontrar a sua tabuada: "))
+print("{} * 0 = {}".format(t,t*0))
+print("{} * 1 = {}".format(t,t*1))
+print("{} * 2 = {}".format(t,t*2))
+print("{} * 3 = {}".format(t,t*3))
+print("{} * 4 = {}".format(t,t*4))
+print("{} * 5 = {}".format(t,t*5))
+print("{} * 6 = {}".format(t,t*6))
+print("{} * 7 = {}".format(t,t*7))
+print("{} * 8 = {}".format(t,t*8))
+print("{} * 9 = {}".format(t,t*9))
+print("{} * 10 = {}".format(t,t*10))
+
